@@ -13,7 +13,7 @@ git config
 
 
 
-添加到 Stage
+### 修改
+
 
 git add
-
